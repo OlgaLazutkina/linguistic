@@ -1,0 +1,2 @@
+# linguistic
+my first repo
